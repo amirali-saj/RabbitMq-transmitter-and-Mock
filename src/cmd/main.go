@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter"
-	"Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter/gobencoding"
-	"Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter/subscribertypes"
+	"github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter"
+	"github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter/gobencoding"
+	"github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter/subscribertypes"
 	"fmt"
 	"time"
 )
