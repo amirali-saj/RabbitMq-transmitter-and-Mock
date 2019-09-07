@@ -1,9 +1,9 @@
 package rabbittransmitter
 
 import (
-	rabbitpublisher2 "Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitpublisher"
-	rabbitsubscriber2 "Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitsubscriber"
-	subscribertypes2 "Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter/subscribertypes"
+	rabbitpublisher2 "github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitpublisher"
+	rabbitsubscriber2 "github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitsubscriber"
+	subscribertypes2 "github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter/subscribertypes"
 )
 
 type RabbitTransmitter struct {
