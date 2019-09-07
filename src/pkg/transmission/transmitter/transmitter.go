@@ -1,7 +1,7 @@
 package transmitter
 
 import (
-	subscribertypes2 "Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter/subscribertypes"
+	subscribertypes2 "github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter/subscribertypes"
 )
 
 type Transmitter interface {
