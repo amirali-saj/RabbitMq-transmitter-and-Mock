@@ -1,8 +1,8 @@
 package subscribertypes
 
 import (
-	"Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter/errorhandling"
-	gobencoding2 "Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter/gobencoding"
+	"github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter/errorhandling"
+	gobencoding2 "github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter/gobencoding"
 )
 
 type Type1 struct {
