@@ -1,7 +1,7 @@
 package rabbitpublisher
 
 import (
-	errorhandling2 "Rabbitmq-data-transmission/src/pkg/transmission/transmitter/rabbittransmitter/errorhandling"
+	errorhandling2 "github.com/amirali-saj/RabbitMq-transmitter-and-Mock/src/pkg/transmission/transmitter/rabbittransmitter/errorhandling"
 	"github.com/streadway/amqp"
 )
 
