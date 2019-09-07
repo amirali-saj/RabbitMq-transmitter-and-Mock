@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96a9f198-92af-4e80-a139-c4060e002762" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Rabbitmq-data-transmission" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitsubscriber/RabbitSubscriber.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/transmitter.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitpublisher/RabbitPublisher.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/errorhandling/errorhandling.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/gobencoding/gobencoding.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="e#21#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/mocktransmitter/mocktransmitter.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/rabbittransmitter.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding>
+                <element signature="e#27#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/subscribertypes/subscribertypes.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cmd/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="48" selection-start-line="48" selection-end-line="49" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>url</find>
+      <find>rint</find>
+      <find>listen</find>
+      <find>product id</find>
+      <find>pass</find>
+      <find>amirali</find>
+      <find>file.txt</find>
+      <find>username1</find>
+      <find>First name:Amirali</find>
+      <find>q</find>
+      <find>qc</find>
+      <find>excha</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/programs/go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cmd/client.go" />
+        <option value="$PROJECT_DIR$/src/Internal/rabbitpublisher/RabbitPublisher.go" />
+        <option value="$PROJECT_DIR$/src/Internal/rabbitsub/RabbitSubscriber.go" />
+        <option value="$PROJECT_DIR$/src/pkg/rabbittransmit/rabbitTransmit.go" />
+        <option value="$PROJECT_DIR$/src/pkg/rabbittransmit/mocktransmitter/mocktransmitter.go" />
+        <option value="$PROJECT_DIR$/src/pkg/rabbittransmit/rabbittransmitter/rabbittransmitter.go" />
+        <option value="$PROJECT_DIR$/src/testing/rabbittransmitter_tets.go" />
+        <option value="$PROJECT_DIR$/src/testing/rabbittransmitter_test.go" />
+        <option value="$PROJECT_DIR$/src/cmd/test.go" />
+        <option value="$PROJECT_DIR$/src/internal/errors/errors.go" />
+        <option value="$PROJECT_DIR$/src/internal/rabbitpublisher/RabbitPublisher.go" />
+        <option value="$PROJECT_DIR$/src/cmd/server.go" />
+        <option value="$PROJECT_DIR$/src/pkg/gobencoding/gobencoding.go" />
+        <option value="$PROJECT_DIR$/src/internal/rabbitsub/RabbitSubscriber.go" />
+        <option value="$PROJECT_DIR$/src/internal/rabbitsubscriber/RabbitSubscriber.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmitter/rabbit/rabbitsubscriber/RabbitSubscriber.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmitter/rabbittransmitter/rabbittransmitter.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmitter/subscribertypes/subscribertypes.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmitter/transmitter.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmitter/mocktransmitter/mocktransmitter.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmission/transmitter/types/types.go" />
+        <option value="$PROJECT_DIR$/src/pkg/subscribertypes/types.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmission/subscribertypes/subscribertypes.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmission/transmitter/mocktransmitter/mocktransmitter.go" />
+        <option value="$PROJECT_DIR$/src/cmd/main.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitsubscriber/RabbitSubscriber.go" />
+        <option value="$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitpublisher/RabbitPublisher.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="650" />
+    <option name="height" value="557" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Rabbitmq-data-transmission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rabbitmq-data-transmission" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rabbitmq-data-transmission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rabbitmq-data-transmission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rabbitmq-data-transmission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rabbitmq-data-transmission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cmd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rabbitmq-data-transmission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rabbitmq-data-transmission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rabbitmq-data-transmission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Rabbitmq-data-transmission" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pkg" type="462c0819:PsiDirectoryNode" />
+              <item name="transmission" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Rabbitmq-data-transmission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Rabbitmq-data-transmission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.12.7" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pkg" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter" />
+      <recent name="$PROJECT_DIR$/src/pkg/transmission" />
+      <recent name="$PROJECT_DIR$/src/pkg" />
+      <recent name="$PROJECT_DIR$/src/pkg/transmitter" />
+      <recent name="$PROJECT_DIR$/src/pkg/transmitter/rabbit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pkg" />
+      <recent name="$PROJECT_DIR$/src/Internal" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Rabbitmq-data-transmission" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/cmd/main.go" />
+      <package value="Rabbitmq-data-transmission" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Rabbitmq-data-transmission" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/cmd/test.go" />
+      <package value="Rabbitmq-data-transmission" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMocktransmitter in Rabbitmq-data-transmission/src/testing" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Rabbitmq-data-transmission" />
+      <working_directory value="$PROJECT_DIR$/src/testing" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Rabbitmq-data-transmission/src/testing" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMocktransmitter$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRabbittransmitter in Rabbitmq-data-transmission/src/testing" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Rabbitmq-data-transmission" />
+      <working_directory value="$PROJECT_DIR$/src/testing" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="Rabbitmq-data-transmission/src/testing" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestRabbittransmitter$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gobench rabbittransmitter_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Rabbitmq-data-transmission" />
+      <working_directory value="$PROJECT_DIR$/src/testing" />
+      <framework value="gobench" />
+      <kind value="FILE" />
+      <package value="Rabbitmq-data-transmission" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/testing/rabbittransmitter_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Test.gobench rabbittransmitter_test.go" />
+        <item itemvalue="Go Test.TestMocktransmitter in Rabbitmq-data-transmission/src/testing" />
+        <item itemvalue="Go Test.TestRabbittransmitter in Rabbitmq-data-transmission/src/testing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMocktransmitter_in_Rabbitmq-data-transmission_src_testing - 2019.08.14 at 16h 14m 28s.xml">
+      <configuration name="TestMocktransmitter in Rabbitmq-data-transmission/src/testing" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRabbittransmitter_in_Rabbitmq-data-transmission_src_testing - 2019.08.14 at 16h 18m 44s.xml">
+      <configuration name="TestRabbittransmitter in Rabbitmq-data-transmission/src/testing" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gobench_rabbittransmitter_test_go - 2019.08.14 at 16h 19m 42s.xml">
+      <configuration name="gobench rabbittransmitter_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gobench_rabbittransmitter_test_go - 2019.08.14 at 16h 19m 47s.xml">
+      <configuration name="gobench rabbittransmitter_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestRabbittransmitter_in_Rabbitmq-data-transmission_src_testing - 2019.08.14 at 16h 19m 50s.xml">
+      <configuration name="TestRabbittransmitter in Rabbitmq-data-transmission/src/testing" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMocktransmitter_in_Rabbitmq-data-transmission_src_testing - 2019.08.14 at 16h 19m 54s.xml">
+      <configuration name="TestMocktransmitter in Rabbitmq-data-transmission/src/testing" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestMocktransmitter_in_Rabbitmq-data-transmission_src_testing - 2019.08.14 at 16h 20m 06s.xml">
+      <configuration name="TestMocktransmitter in Rabbitmq-data-transmission/src/testing" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gobench_rabbittransmitter_test_go - 2019.08.14 at 16h 20m 12s.xml">
+      <configuration name="gobench rabbittransmitter_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gobench_rabbittransmitter_test_go - 2019.08.14 at 16h 21m 04s.xml">
+      <configuration name="gobench rabbittransmitter_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="gobench_rabbittransmitter_test_go - 2019.08.14 at 16h 21m 24s.xml">
+      <configuration name="gobench rabbittransmitter_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49516907" visible="true" weight="0.3160415" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5048309" side_tool="true" visible="true" weight="0.3160415" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980048" weight="0.32792208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32954547" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5019952" side_tool="true" visible="true" weight="0.32792208" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/testing/rabbittransmitter_test.go" />
+    <entry file="file://$PROJECT_DIR$/src/cmd/server.go" />
+    <entry file="file://$PROJECT_DIR$/src/cmd/client.go" />
+    <entry file="file://$PROJECT_DIR$/../github.com/streadway/amqp/connection.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="651" column="21" selection-start-line="651" selection-start-column="21" selection-end-line="651" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitsubscriber/RabbitSubscriber.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/transmitter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/rabbit/rabbitpublisher/RabbitPublisher.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/errorhandling/errorhandling.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/gobencoding/gobencoding.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#21#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/mocktransmitter/mocktransmitter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/rabbittransmitter.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#27#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pkg/transmission/transmitter/rabbittransmitter/subscribertypes/subscribertypes.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cmd/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="48" selection-start-line="48" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
